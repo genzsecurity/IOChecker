@@ -8,11 +8,10 @@ The purpose of this tool is to help you to find out if your station is compromis
 5.	Processes – search by process name.
 
 The tool is written in .Net and should run on any version of windows.
-Download the tree from *Release*.
 
 Use:
 
-1.	Download both the .exe file and config file.
+1.	Download both the .exe file(Download the file from **Release**) and config file.
 
 Please pay attention: the exe and a config file have to be in the same directory for the tool to work.
 
