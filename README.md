@@ -31,4 +31,4 @@ While entering your IOC's to the config file, pay attention to the following:
 
 
 4.	Now you can run the tool with administrator permissions. When it's done, you see the following window(may take several seconds after the console window disappears):
-![Pic 3](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/2.png)
+![Pic 3](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/1.png)
