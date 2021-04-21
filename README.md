@@ -13,7 +13,7 @@ Use:
 
 1.	Download both the .exe file(Download the file from **Release**) and config file.
 
-Please pay attention: the exe and a config file have to be in the same directory for the tool to work.
+**Please pay attention: the exe and a config file have to be in the same directory for the tool to work.**
 
 2.	Open config file. it looks like that:<br/>
 ![Pic 1](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/2.png)
