@@ -19,7 +19,7 @@ Please pay attention: the exe and a config file have to be in the same directory
 ![Pic 1](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/2.png)
 
 3.	Just add your IOC’s to the correct value, like that:
-![Pic 2](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/1.png)
+![Pic 2](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/3.png)
 
 You can add several IOC’s that are the same type, just add another add key. The key should look exactly like the ones that already exist. Just edit the key name. Key name has to contain the type name(Registry/Task/Service/File/Process) and some other number.
 While entering your IOC's to the config file, pay attention to the following:
@@ -31,4 +31,4 @@ While entering your IOC's to the config file, pay attention to the following:
 
 
 4.	Now you can run the tool with administrator permissions. When it's done, you see the following window(may take several seconds after the console window disappears):
-![Pic 3](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/3.png)
+![Pic 3](https://github.com/genzsecurity/IOChecker/blob/17da785c5c070b0580f50a4927be9c512ff0c8a6/2.png)
